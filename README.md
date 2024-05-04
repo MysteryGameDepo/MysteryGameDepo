@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi👋 I go by WhySoMysterious on Roblox
 
-<!--
-**ReedsGameDepo/ReedsGameDepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Programmer, QA Tester, & Musician
 
-Here are some ideas to get you started:
+## Headline
+I am currently working for Supersocial Inc. as a contractor QA tester. In my spare time, I work on Roblox-based programming projects and games.
+A short selection of my work can be found in the customized pins on this profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project and Work Focus:
+- Back-end system frameworks
+- UI design and programming
+- AI behaviour and movement
+- Custom avatar controllers
+- Editor plugins
+- Script optimization  
+
+## Development Groups:
+- Diabolical Game Makers
+- **Roles**: Lead Programmer; Game Design; Tester
+- **Link**: https://www.roblox.com/groups/16142224/Diabolical-Game-Makers#!/about
+  
+## Contact
+- 🌍 I'm based in Ontario, Canada
+- Email: mystery85rblx@gmail.com
+- Roblox: WhySoMysterious
+  
